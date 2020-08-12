@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Miguel Ángel Gil Martín"
+theme = "hugo-theme-cactus"
