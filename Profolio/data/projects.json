@@ -1,0 +1,59 @@
+{
+  "list": [
+    {
+      "name":"OxiDungeon",
+      "url":"/projects/oxi_dungeon/",
+      "desc":"Juego de mazmorras con tematicas de robots realizado con unity"
+    },
+    {
+      "name":"Bola magica 8",
+      "url":"/projects/bola_magica_8",
+      "desc":"Aplicación de android que simula la mitica bola magica 8"
+    },
+    {
+      "name":"Strips",
+      "url":"/projects/strips",
+      "desc":"Aplicación del algoritmo de IA en una escena de Unity"
+    },
+    {
+      "name":"videogame web",
+      "url":"/projects/videogame_web",
+      "desc":"Juego realizado en javaScript"
+    },
+    {
+      "name":"Fight-Game-IA",
+      "url":"/projects/fight-game-IA",
+      "desc":"Jueo de lucha en el que luchas con una IA que aprende de tus ataques"
+    },
+    {
+      "name":"Survival Zombie PP",
+      "url":"/projects/survival_zombie_PP",
+      "desc":"Proyecto de unity en el que hay que sobrevivir a una orda de zombies"
+    },
+    {
+      "name":"Social-Notebook",
+      "url":"/projects/social_notebook",
+      "desc":"Proyecto web en PHP de creación de notas y compartirlas con amigos"
+    },
+    {
+      "name":"Fallera Calavera",
+      "url":"/projects/fallera_calavera",
+      "desc":"Proyecto web de portear el juego de cartas Valenciano de la Fallera"
+    },
+    {
+      "name":"Box2D Project",
+      "url":"/projects/box2d_project",
+      "desc":"Proyecto realizado con box2d y C++"
+    },
+    {
+      "name":"Neuronal Snake",
+      "url":"/projects/neuronal_snake",
+      "desc":"Proyecto en el que entrenamos una IA para que juege al mitico juego de Snake"
+    },
+    {
+      "name":"TFG Dungeon & Cards",
+      "url":"/projects/tfg-dungeon-and-cards",
+      "desc":"Proyecto TFG de un juego de Cartas"
+    }
+  ]
+}

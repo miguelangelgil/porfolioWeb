@@ -1,6 +1,6 @@
 ---
 title: "Lenguajes_programacion"
-date: 2020-08-12T19:21:46+02:00
+date: 2020-08-13T18:10:35+02:00
 draft: true
 ---
 
