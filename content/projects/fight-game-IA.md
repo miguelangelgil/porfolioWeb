@@ -1,7 +1,7 @@
 ---
 title: "Fight Game IA"
 date: 2020-08-13T19:08:53+02:00
-draft: true
+draft: false
 ---
 
 ### Fight Game IA

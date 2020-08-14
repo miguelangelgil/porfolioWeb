@@ -1,7 +1,7 @@
 ---
 title: "Tfg Dungeon and Cards"
 date: 2020-08-13T20:32:00+02:00
-draft: true
+draft: false
 ---
 
 ### TFG Dungeon & Cards

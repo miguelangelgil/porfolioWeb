@@ -1,7 +1,7 @@
 ---
 title: "Survival_zombie_PP"
 date: 2020-08-13T19:21:57+02:00
-draft: true
+draft: false
 ---
 
 ### Survival Zombie PP

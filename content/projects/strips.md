@@ -1,7 +1,7 @@
 ---
 title: "Strips"
 date: 2020-08-13T18:54:12+02:00
-draft: true
+draft: false
 ---
 
 ### Strips

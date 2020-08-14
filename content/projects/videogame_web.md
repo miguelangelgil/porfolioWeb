@@ -1,7 +1,7 @@
 ---
 title: "Videogame_web"
 date: 2020-08-13T18:59:06+02:00
-draft: true
+draft: false
 ---
 
 ### VideoGame Web

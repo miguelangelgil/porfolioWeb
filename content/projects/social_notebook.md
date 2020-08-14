@@ -1,7 +1,7 @@
 ---
 title: "Social_notebook"
 date: 2020-08-13T19:41:26+02:00
-draft: true
+draft: false
 ---
 
 ### Social Notebook

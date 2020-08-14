@@ -1,7 +1,7 @@
 ---
 title: "Bola_magica_8"
 date: 2020-08-13T18:48:29+02:00
-draft: true
+draft: false
 ---
 
 ### Bola magica 8
