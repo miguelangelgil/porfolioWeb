@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Miguel Ángel Gil Martín</title>
-    <link>https://localhost/projects/</link>
+    <link>https://www.mag-ma.online/projects/</link>
     <description>Recent content in Projects on Miguel Ángel Gil Martín</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MAGMa</copyright>
     <lastBuildDate>Thu, 13 Aug 2020 20:32:00 +0200</lastBuildDate>
     
-	<atom:link href="https://localhost/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mag-ma.online/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tfg Dungeon and Cards</title>
-      <link>https://localhost/projects/tfg-dungeon-and-cards/</link>
+      <link>https://www.mag-ma.online/projects/tfg-dungeon-and-cards/</link>
       <pubDate>Thu, 13 Aug 2020 20:32:00 +0200</pubDate>
       
-      <guid>https://localhost/projects/tfg-dungeon-and-cards/</guid>
+      <guid>https://www.mag-ma.online/projects/tfg-dungeon-and-cards/</guid>
       <description>TFG Dungeon &amp;amp; Cards  Este proyecto, es mi TFG, mi trabajo fin de carrera, consistía en una investigación y luego aplicar lo aprendido en un proyecto. Mi investigación consistión en Gneración procedural de mapas y conexion PHP y SQL y FireBase, descubriendo que para nuestro proyecto, era mejor usar FireBase.
 El juego consisitía en un juego de cartas, con las cuales, tienes que acabar con los enemigos de una isla, al hacerlo, avanzas a la siguiente isla.</description>
     </item>
     
     <item>
       <title>Neuronal_snake</title>
-      <link>https://localhost/projects/neuronal_snake/</link>
+      <link>https://www.mag-ma.online/projects/neuronal_snake/</link>
       <pubDate>Thu, 13 Aug 2020 20:22:51 +0200</pubDate>
       
-      <guid>https://localhost/projects/neuronal_snake/</guid>
+      <guid>https://www.mag-ma.online/projects/neuronal_snake/</guid>
       <description>Neuronal Snake  Proyecto en el que mediante TensorFlow una IA es capaz de jugar al mitico juego del Snake.
   El proyecto fue realizado en Unity y TensorFlow.
   github</description>
@@ -35,10 +35,10 @@ El juego consisitía en un juego de cartas, con las cuales, tienes que acabar co
     
     <item>
       <title>Box2d_project</title>
-      <link>https://localhost/projects/box2d_project/</link>
+      <link>https://www.mag-ma.online/projects/box2d_project/</link>
       <pubDate>Thu, 13 Aug 2020 20:06:24 +0200</pubDate>
       
-      <guid>https://localhost/projects/box2d_project/</guid>
+      <guid>https://www.mag-ma.online/projects/box2d_project/</guid>
       <description>Box2D Project  Proyecto realizado en C++ y Box2d. Para poder realizarlo, se ha creado un pequeño motor que facilita el uso de la herramienta
   El proyecto fue realizado en C++, Box2d y SFML
   github</description>
@@ -46,10 +46,10 @@ El juego consisitía en un juego de cartas, con las cuales, tienes que acabar co
     
     <item>
       <title>Fallera_calavera</title>
-      <link>https://localhost/projects/fallera_calavera/</link>
+      <link>https://www.mag-ma.online/projects/fallera_calavera/</link>
       <pubDate>Thu, 13 Aug 2020 19:55:42 +0200</pubDate>
       
-      <guid>https://localhost/projects/fallera_calavera/</guid>
+      <guid>https://www.mag-ma.online/projects/fallera_calavera/</guid>
       <description>Fallera Calavera  Proyecto en curso de portear el juego de mesa Fallera Calavera
   El proyecto fue realizado en javaScript y FireBase.
   github</description>
@@ -57,10 +57,10 @@ El juego consisitía en un juego de cartas, con las cuales, tienes que acabar co
     
     <item>
       <title>Social_notebook</title>
-      <link>https://localhost/projects/social_notebook/</link>
+      <link>https://www.mag-ma.online/projects/social_notebook/</link>
       <pubDate>Thu, 13 Aug 2020 19:41:26 +0200</pubDate>
       
-      <guid>https://localhost/projects/social_notebook/</guid>
+      <guid>https://www.mag-ma.online/projects/social_notebook/</guid>
       <description>Social Notebook  Se trata de una aplicación web en la que puedes guardar notas, y compartirlas con amigos, al igual que darle derechos de escritura o solo de visualización.
 La aplicación esta activa actualmente y se puede usar aqui
   El proyecto fue realizado en HTML, CSS, Bootstrap y PHP
@@ -69,10 +69,10 @@ La aplicación esta activa actualmente y se puede usar aqui
     
     <item>
       <title>Survival_zombie_PP</title>
-      <link>https://localhost/projects/survival_zombie_pp/</link>
+      <link>https://www.mag-ma.online/projects/survival_zombie_pp/</link>
       <pubDate>Thu, 13 Aug 2020 19:21:57 +0200</pubDate>
       
-      <guid>https://localhost/projects/survival_zombie_pp/</guid>
+      <guid>https://www.mag-ma.online/projects/survival_zombie_pp/</guid>
       <description>Survival Zombie PP  Esta practica, consistía en una escena de unity en la que teníamos que poner muchas entidades para sobrecargar la escena y mediante estructuras de código y mecanicas de optimización en el motor y con las texturas, hacer que el juego funcionase en una Play Station 3
   El proyecto fue realizado en Unity.
   github</description>
@@ -80,10 +80,10 @@ La aplicación esta activa actualmente y se puede usar aqui
     
     <item>
       <title>Fight Game IA</title>
-      <link>https://localhost/projects/fight-game-ia/</link>
+      <link>https://www.mag-ma.online/projects/fight-game-ia/</link>
       <pubDate>Thu, 13 Aug 2020 19:08:53 +0200</pubDate>
       
-      <guid>https://localhost/projects/fight-game-ia/</guid>
+      <guid>https://www.mag-ma.online/projects/fight-game-ia/</guid>
       <description>Fight Game IA  Es un proyecto, en el cual un jugador se enfrenta a una IA en una pelea en 2d al estilo de los juegos de lucha clasicos. La IA hace uso de los algoritmos de &amp;ldquo;UCB1&amp;rdquo; y &amp;ldquo;Regret Machine&amp;rdquo; para aprender de tus patrones de movimientos.
   El proyecto fue realizado en Unity.
   github</description>
@@ -91,29 +91,29 @@ La aplicación esta activa actualmente y se puede usar aqui
     
     <item>
       <title>Videogame_web</title>
-      <link>https://localhost/projects/videogame_web/</link>
+      <link>https://www.mag-ma.online/projects/videogame_web/</link>
       <pubDate>Thu, 13 Aug 2020 18:59:06 +0200</pubDate>
       
-      <guid>https://localhost/projects/videogame_web/</guid>
+      <guid>https://www.mag-ma.online/projects/videogame_web/</guid>
       <description>VideoGame Web  Practica universitaria, que consistía en realizar un juego con javaScript para el dominio del lenguaje. En el caso de mi practica, se trata de un mundo de baldosas que se generan solas y un personaje que anda sobre ellas, algunas baldosas se pueden minar, estas te dan clicks, con los clicks puedes comprar picos que te permiten minar mas rapido.
   El proyecto fue realizado con HTML y javaScript</description>
     </item>
     
     <item>
       <title>Strips</title>
-      <link>https://localhost/projects/strips/</link>
+      <link>https://www.mag-ma.online/projects/strips/</link>
       <pubDate>Thu, 13 Aug 2020 18:54:12 +0200</pubDate>
       
-      <guid>https://localhost/projects/strips/</guid>
+      <guid>https://www.mag-ma.online/projects/strips/</guid>
       <description>Strips  El algoritmo de “strips” consiste en obtener un resultado meta, para alcanzar este estado se deberán alcanzar otros sub-estados en primer lugar. De esta manera, se obtiene una solución adecuada a nuestro problema, pero esto no quiere decir que sea la óptima. Strips solamente garantiza que la solución es viable.Hemos aplicado este algoritmo en el proyecto, funcionando correctamente. Para realizar este algoritmo nos hemos basado en el trabajo que hicimos en clase en C# de strips, y para hacer el modelo de datos nos basamos en lo que hicimos en clase el ultimo dia.</description>
     </item>
     
     <item>
       <title>Bola_magica_8</title>
-      <link>https://localhost/projects/bola_magica_8/</link>
+      <link>https://www.mag-ma.online/projects/bola_magica_8/</link>
       <pubDate>Thu, 13 Aug 2020 18:48:29 +0200</pubDate>
       
-      <guid>https://localhost/projects/bola_magica_8/</guid>
+      <guid>https://www.mag-ma.online/projects/bola_magica_8/</guid>
       <description>Bola magica 8  Se trata de una aplicación android realizada en Java, que simula el comportamiento de la tipica bola magica 8
   El proyecto fue realizado en AndroidStudio.
   github</description>
@@ -121,10 +121,10 @@ La aplicación esta activa actualmente y se puede usar aqui
     
     <item>
       <title>Oxi_dungeon</title>
-      <link>https://localhost/projects/oxi_dungeon/</link>
+      <link>https://www.mag-ma.online/projects/oxi_dungeon/</link>
       <pubDate>Thu, 13 Aug 2020 18:30:57 +0200</pubDate>
       
-      <guid>https://localhost/projects/oxi_dungeon/</guid>
+      <guid>https://www.mag-ma.online/projects/oxi_dungeon/</guid>
       <description>Oxi-Dungeon  Es un juego de mazmorras en el que encarnas la piel de un Robot que quiere rescatar a su amigo, para ello tendras que ir descendiendo por la mazmorra acabando con la vida de todos los enemigos que te encuentres.
   El proyecto fue realizado en Unity.
   github</description>
