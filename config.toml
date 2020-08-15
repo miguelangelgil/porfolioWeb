@@ -1,4 +1,4 @@
-baseURL = "https://localhost/"
+baseURL = "https://porfolio.onrender.com"
 languageCode = "en-us"
 title = "Miguel Ángel Gil Martín"
 theme = "cactus"
