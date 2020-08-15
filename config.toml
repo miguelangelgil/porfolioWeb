@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://localhost/"
 languageCode = "en-us"
 title = "Miguel Ángel Gil Martín"
 theme = "cactus"
@@ -60,7 +60,7 @@ weight = 4
   show_updated = false # default
 
   [params.comments]
-    enabled = false # default
+    enabled = true # default
     engine = "disqus" # more supported engines will be added.
 
   # the value of name should be an valid font awesome icon name (brands type)
@@ -75,3 +75,5 @@ weight = 4
     name = "email"
     link = "miguelangel@mag-ma.online"  # no need for "mailto:" in the head
 
+
+  
