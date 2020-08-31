@@ -1,9 +1,11 @@
 ---
-
-# First Engine
-
+title: "First Engine"
+date: 2020-08-31T19:08:53+02:00
+draft: false
 ---
 
+# First Engine
+---
 ## Description:
 
 This is a videogame engine project developed with SDL2 and OpenGL 3.3, in the solution you can find two folders, Demo and Engine, in the first one you can find a scene built by the engine functionalities and in the second one, Engine, you can find the project engine.
